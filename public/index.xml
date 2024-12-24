@@ -1,0 +1,86 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Pixyll on Pixyll </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/</link>
+    <language>en</language>
+    
+    
+    <updated>Thu, 19 Dec 2024 19:34:02 &#43;0000</updated>
+    
+    <item>
+      <title>Mettre en place un système de veille : mon expérience avec Basti UI</title>
+      <link>http://localhost:1313/post/article5/</link>
+      <pubDate>Thu, 19 Dec 2024 19:34:02 &#43;0000</pubDate>
+      
+      <guid>http://localhost:1313/post/article5/</guid>
+      <description>&lt;p&gt;Dans le domaine du design et de l’expérience utilisateur, il est essentiel de rester à jour face aux nouvelles tendances, outils et approches. Pour structurer ma démarche, j’ai décidé de mettre en place un système de veille centré sur un créateur de contenu que j’apprécie particulièrement : Basti UI sur YouTube. Voici comment cette expérience a enrichi ma pratique et m’a aidée à évoluer en tant que designer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pourquoi choisir Basti UI ?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Inclusive Innovation: Accessible UX Design</title>
+      <link>http://localhost:1313/post/article3/</link>
+      <pubDate>Sun, 15 Dec 2024 19:34:02 &#43;0000</pubDate>
+      
+      <guid>http://localhost:1313/post/article3/</guid>
+      <description>&lt;p&gt;Dans le paysage numérique actuel, l&amp;rsquo;innovation inclusive et la conception d&amp;rsquo;expériences utilisateur (UX) accessibles sont essentielles pour atteindre un public diversifié et garantir une interaction fluide avec les produits et services en ligne. Selon un article de Loop11, environ 20 % des Australiens vivent avec un handicap, soulignant l&amp;rsquo;importance de l&amp;rsquo;accessibilité numérique.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&amp;rsquo;importance de l&amp;rsquo;accessibilité&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;accessibilité numérique vise à éliminer les obstacles qui empêchent certaines personnes d&amp;rsquo;utiliser pleinement les sites web et les applications. En Australie, la loi sur la discrimination fondée sur le handicap (Disability Discrimination Act) exige que les sites web respectent les directives pour l&amp;rsquo;accessibilité du contenu web (WCAG), sous peine de sanctions financières. Au-delà des obligations légales, des interfaces accessibles améliorent l&amp;rsquo;expérience utilisateur globale, réduisent les taux de rebond et augmentent l&amp;rsquo;engagement des visiteurs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Simplifying UX Design: Embracing a Systemic Approach</title>
+      <link>http://localhost:1313/post/article4/</link>
+      <pubDate>Sun, 15 Dec 2024 19:34:02 &#43;0000</pubDate>
+      
+      <guid>http://localhost:1313/post/article4/</guid>
+      <description>&lt;p&gt;Dans le domaine du design UX, la complexité peut souvent entraver la création d&amp;rsquo;expériences utilisateur efficaces. Adopter une approche systémique permet de simplifier ces processus en considérant l&amp;rsquo;ensemble des interactions et des relations au sein du système. Voici comment intégrer cette méthodologie pour améliorer vos conceptions :&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Qu&amp;rsquo;est-ce que le design systémique ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Le design systémique consiste à analyser et à comprendre comment les différentes composantes d&amp;rsquo;un système interagissent et s&amp;rsquo;influencent mutuellement. Cette perspective globale aide à identifier les redondances, les étapes inutiles ou les chemins complexes qui peuvent compliquer l&amp;rsquo;expérience utilisateur.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Top 5 UX Design Principles That Boost User Engagement</title>
+      <link>http://localhost:1313/post/article1/</link>
+      <pubDate>Sun, 15 Dec 2024 19:34:02 &#43;0000</pubDate>
+      
+      <guid>http://localhost:1313/post/article1/</guid>
+      <description>&lt;p&gt;Dans l&amp;rsquo;univers numérique actuel, la réussite d&amp;rsquo;un produit ne se mesure pas seulement à son esthétique ou à ses fonctionnalités, mais aussi à son impact sur l&amp;rsquo;utilisateur. Une expérience utilisateur (UX) bien conçue peut transformer une simple interaction en un moment mémorable et engageant. Alors, comment les designers peuvent-ils s&amp;rsquo;assurer que leurs créations captivent réellement les utilisateurs ? Voici cinq principes essentiels à suivre pour maximiser l&amp;rsquo;engagement des utilisateurs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Concevoir pour l&amp;rsquo;utilisateur avant tout&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UX design isn’t dead, you’re just confused</title>
+      <link>http://localhost:1313/post/article2/</link>
+      <pubDate>Fri, 06 Dec 2024 19:34:02 &#43;0000</pubDate>
+      
+      <guid>http://localhost:1313/post/article2/</guid>
+      <description>&lt;p&gt;Dans le monde technologique en constante évolution, le rôle du design UX suscite de plus en plus d’interrogations. Certains affirment qu’il est en déclin, voire obsolète. Pourtant, cette perception ne reflète pas la réalité. Alors, d’où vient ce malentendu, et que faut-il en conclure ?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Une discipline essentielle mais mal comprise&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Le design UX est bien loin d’être un concept nouveau. Depuis ses débuts, il s’est affirmé comme un pilier pour comprendre les besoins des utilisateurs et créer des expériences optimisées. Pourtant, un rapport récent indique que 66 % des PDG peinent à définir les responsabilités de leur directeur du design. Ce chiffre illustre une confusion criante : les entreprises ne savent pas toujours comment exploiter efficacement le potentiel des designers.
+Cette incertitude se reflète également dans la prolifération de titres de postes et de responsabilités. Designer produit, designer UX, architecte d’expérience… Ces intitulés multiples masquent souvent un flou sur les attentes réelles envers ces rôles.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://localhost:1313/search/</link>
+      <pubDate>Sun, 09 Nov 2014 13:49:44 &#43;0400</pubDate>
+      
+      <guid>http://localhost:1313/search/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 08 Nov 2014 16:42:18 &#43;0400</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;pourquoi-luxui-&#34;&gt;Pourquoi l&amp;rsquo;UX/UI ?&lt;/h2&gt;
+&lt;p&gt;Le domaine dans lequel je me spécialise est au cœur de mon Ikigai, une notion japonaise qui représente l&amp;rsquo;intersection de ce que nous aimons faire, ce en quoi nous sommes bons, ce dont le monde a besoin et ce pour quoi nous pouvons être rémunérés. Mon Ikigai se trouve dans la création d&amp;rsquo;expériences utilisateurs de qualité, en explorant constamment les nouvelles tendances du design UX/UI et en cherchant à comprendre comment les utilisateurs interagissent avec les produits numériques.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
+
